@@ -3,11 +3,11 @@
 	"name": 		"Uzi",
 	"longName": 	"Uzi Doorman",
 	"author": 		"GirlWithNoName",
-	"urlSprites": 	"",
-	"urlFront": 	"",
-	"urlSide": 		"",
-	"urlStart": 	"",
-	"urlSticker1": 	"",
-	"urlSticker2": 	"",
+	"urlSprites": 	"https://github.com/cookiesock/cookiesock/blob/main/ignore/UziDoorman/chrSprites.png?raw=true",
+	"urlFront": 	"https://github.com/cookiesock/cookiesock/blob/main/ignore/UziDoorman/uiFront.png?raw=true",
+	"urlSide": 		"https://github.com/cookiesock/cookiesock/blob/main/ignore/UziDoorman/uiSide.png?raw=true",
+	"urlStart": 	"https://github.com/cookiesock/cookiesock/blob/main/ignore/UziDoorman/uiStart.png?raw=true",
+	"urlSticker1": 	"https://github.com/cookiesock/cookiesock/blob/main/ignore/UziDoorman/sticker1.png?raw=true",
+	"urlSticker2": 	"https://github.com/cookiesock/cookiesock/blob/main/ignore/UziDoorman/sticker2.png?raw=true",
 	"runFrames": 	3
 }}
