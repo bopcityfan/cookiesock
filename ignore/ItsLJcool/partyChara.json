@@ -1,13 +1,13 @@
 {"c2dictionary": true,
 "data": {
-	"name": 		"Bingo",
-	"longName": 	"Temp | Bingo",
-	"author": 		"Char",
-	"urlSprites": 	"",
-	"urlFront": 	"",
-	"urlSide": 		"",
-	"urlStart": 	"",
-	"urlSticker1": 	"",
-	"urlSticker2": 	"",
+	"name": 		"LJ",
+	"longName": 	"ItsLJcool",
+	"author": 		"ItsLJcool, GirlWithNoName",
+	"urlSprites": 	"https://raw.githubusercontent.com/cookiesock/cookiesock/d44706ac052e08335ac983a77eae06efcdfb5aef/ignore/ItsLJcool/spritess.png",
+	"urlFront": 	"https://raw.githubusercontent.com/cookiesock/cookiesock/d44706ac052e08335ac983a77eae06efcdfb5aef/ignore/ItsLJcool/front.png",
+	"urlSide": 		"https://raw.githubusercontent.com/cookiesock/cookiesock/d44706ac052e08335ac983a77eae06efcdfb5aef/ignore/ItsLJcool/icon.png",
+	"urlStart": 	"https://raw.githubusercontent.com/cookiesock/cookiesock/d44706ac052e08335ac983a77eae06efcdfb5aef/ignore/ItsLJcool/start.png",
+	"urlSticker1": 	"https://raw.githubusercontent.com/cookiesock/cookiesock/d44706ac052e08335ac983a77eae06efcdfb5aef/ignore/ItsLJcool/sticker1.png",
+	"urlSticker2": 	"https://raw.githubusercontent.com/cookiesock/cookiesock/d44706ac052e08335ac983a77eae06efcdfb5aef/ignore/ItsLJcool/sticker2.png",
 	"runFrames": 	3
 }}
